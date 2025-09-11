@@ -1,1 +1,6 @@
-
+samples = [
+    "I love this movie. It's fantastic and well-paced.",
+    "This film was terrible, I hated every minute.",
+    "It was okay, not great but not bad either.",
+    "It was bad."
+]
